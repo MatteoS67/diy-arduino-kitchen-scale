@@ -9,7 +9,7 @@ This project transforms an Arduino Uno into a precise digital kitchen scale. It 
 ![Scale View 2](images%20and%20video/pic2.jpg)
 ![Scale View 3](images%20and%20video/pic3.jpg)
 
-<video src="https://raw.githubusercontent.com/MatteoS67/kitchen_scale/main/images%20and%20video/video.mp4" controls="controls" width="600"></video>
+https://github.com/MatteoS67/kitchen_scale/blob/main/images%20and%20video/video.mp4
 
 ## Hardware Required
 
